@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ahana-houston-peak-roofing-llc-2605142025.netlify.app/sitemap.xml
